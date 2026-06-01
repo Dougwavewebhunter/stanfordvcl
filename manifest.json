@@ -1,0 +1,25 @@
+{
+  "name": "Stanford Formwork & Scaffolding",
+  "short_name": "Stanford",
+  "description": "Premium formwork design, supply, installation and compliant scaffolding solutions across South Africa.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#2D3338",
+  "theme_color": "#2D3338",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

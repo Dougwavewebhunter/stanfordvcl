@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stanfordformwork.lovable.app/sitemap.xml

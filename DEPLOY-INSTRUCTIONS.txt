@@ -1,0 +1,15 @@
+NO-BUILD static deployment package
+
+Vercel:
+1. Upload this ZIP / folder.
+2. Framework Preset: Other.
+3. Build Command: leave blank.
+4. Output Directory: leave blank or root.
+5. No npm install is needed.
+
+Cloudflare Pages:
+1. Use Upload Assets / Direct Upload.
+2. Upload the contents of this ZIP.
+3. No build command is needed.
+
+This package contains already-built static files only.
